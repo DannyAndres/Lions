@@ -13,7 +13,7 @@ var elixir = require('laravel-elixir');
 
 elixir(function(mix) {
     mix.styles([
-        "font-awesome.min.css"
+        //aqui van los css propios
     ])
     .sass('app.scss');
 });

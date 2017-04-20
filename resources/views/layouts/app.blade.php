@@ -41,7 +41,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <i class="fa fa-btn fa-pencil-square-o"></i>LionsUp
+                    LionsUp
                 </a>
             </div>
 
