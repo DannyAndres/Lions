@@ -1,0 +1,16 @@
+.image-profile {
+  width: 150px;
+  height: 150px;
+  float: left;
+  border-radius: 50%;
+  margin-right: 25px; }
+
+.image-profile-sm {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  border-radius: 50%; }
+
+/*# sourceMappingURL=app.css.map */
